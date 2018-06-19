@@ -1,0 +1,21 @@
+.main {
+    flex: 1;
+    padding: 50px;
+}
+
+.inputText {
+    padding: 10px 15px;
+    border-radius: 3px;
+    border: 1px solid #000;
+    font-size: 20px;
+}
+
+.button {
+    padding: 10px 15px;
+    background: #ee4059;
+    margin-left: 4px;
+    color: #fff;
+    border-radius: 3px;
+    border: 0;
+    font-size: 20px;
+}
